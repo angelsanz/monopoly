@@ -1,4 +1,4 @@
-require_relative '../src/round'
+require_relative '../lib/monopoly/round'
 
 describe Round do
   it 'is finished after all players play' do

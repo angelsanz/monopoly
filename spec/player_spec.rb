@@ -1,5 +1,5 @@
-require_relative '../src/player'
-require_relative '../src/dice'
+require_relative '../lib/monopoly/player'
+require_relative '../lib/monopoly/dice'
 
 describe 'Player' do
   describe 'roll' do

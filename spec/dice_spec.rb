@@ -1,4 +1,4 @@
-require_relative '../src/dice'
+require_relative '../lib/monopoly/dice'
 
 describe 'Dice' do
   it 'can be rolled' do

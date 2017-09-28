@@ -1,4 +1,4 @@
-require_relative '../../src/player'
+require_relative '../../lib/monopoly/player'
 
 class TestPlayer < Player
   def self.rich
